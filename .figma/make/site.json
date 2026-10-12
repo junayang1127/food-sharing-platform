@@ -1,0 +1,10 @@
+{
+  "description": "Connects donors and neighbors to share surplus food locally, reducing waste and providing meals to those in need through a simple platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
